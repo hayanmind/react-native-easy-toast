@@ -157,6 +157,7 @@ fadeInDuration  | React.PropTypes.number  | true | 500  |   Custom toast show du
 fadeOutDuration  | React.PropTypes.number  | true | 500  |   Custom toast close duration
 opacity  | React.PropTypes.number  | true | 1  |   Custom toast opacity
 textStyle  | View.propTypes.style  | true | {color:'white'}  |   Custom style text
+useNativeDriver  | React.PropTypes.bool | true | false |   Use native driver for animation
 
 
 
